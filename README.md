@@ -1,2 +1,2 @@
-# Voyage-au-coeur-de-la-cellule-v-g-tale
-Atelier pédagogique autour de la photosynthèse
+# VCCV
+: Voyage au coeur de la cellule végétale : un atelier pédagogique autour de la photosynthèse
