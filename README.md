@@ -1,7 +1,8 @@
 # Voyage au coeur de la cellule végétale 
 
 
-![chatgpt super chloroplaste](.images/README/chatgpt super chloroplaste.png)
+<img width="1024" height="1024" alt="chatgpt super chloroplaste" src="https://github.com/user-attachments/assets/61895a37-7227-4ecb-9de1-40125ac27bd2" />
+
 
 Voyage au Cœur de la Cellule Végétale est un **set de vulgarisation** destiné à amener le grand public à voyager depuis l’objet connu, la feuille, jusqu’au cœur de la photosynthèse, processus essentiel au vivant et à l’équilibre du climat mais souvent méconnu, voire ignoré du public. 
 
